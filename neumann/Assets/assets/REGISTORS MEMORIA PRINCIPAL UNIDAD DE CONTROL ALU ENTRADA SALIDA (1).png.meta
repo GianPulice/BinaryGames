@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 789e7f96e6970f149ae597c8154edd3a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_0
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1711
+        width: 301
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abce7f232de2c90439e56a857cb28a44
+      internalID: -1237292464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1457
+        width: 300
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847d17f88bbcf3d48a7b130de2510a4b
+      internalID: 780108086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_25
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1198
+        width: 291
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1ba369da80b1543a0801fd995d3fbb
+      internalID: 1351610866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_40
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1031
+        width: 108
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea4eeffb0a7ec64c8245c7d61f9351d
+      internalID: -392072748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_43
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 779
+        width: 254
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f030567e558544da9b752ac619f4d8
+      internalID: -1004922384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_0: -1237292464
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_1: -1909322737
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_10: -2076360020
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_11: 1445752367
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_12: -113813390
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_13: -1886721487
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_14: -2086618987
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_15: 1840373982
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_16: -349215025
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_17: 143419882
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_18: -643831030
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_19: 1713018770
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_2: 1651811045
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_20: 617427227
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_21: -1233572694
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_22: 408955701
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_23: 941349069
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_24: -116513331
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_25: 1351610866
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_26: -180239043
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_27: -1711419405
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_28: -1248824816
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_29: -210032588
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_3: -283079628
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_30: 949245480
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_31: 582340949
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_32: -96283382
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_33: -69924345
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_34: -1448906742
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_35: 2095242635
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_36: 534435898
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_37: -1424695
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_38: 373286746
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_39: 15747506
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_4: -179108498
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_40: -392072748
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_41: 89252043
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_42: -175317978
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_43: -1004922384
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_44: -1421906912
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_45: 1191505706
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_46: 35788577
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_47: 237854417
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_48: -2028559973
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_49: 544113185
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_5: 1221335046
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_50: 1533178636
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_51: 1422337165
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_52: 1852563947
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_53: 2126404012
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_54: 491327363
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_55: 2065922693
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_6: -251359877
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_7: 334328966
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_8: 628291950
+      REGISTORS MEMORIA PRINCIPAL UNIDAD DE CONTROL ALU ENTRADA SALIDA (1)_9: 780108086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
